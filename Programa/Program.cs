@@ -6,6 +6,8 @@ namespace Programa
     {
         static void Main(string[] args)
         {
+            //HELLOw World
+            Console.WriteLine("Hellow world");
             Student student1= new Student();
             student1.name = "jose";
             student1.grade = 72.5;
